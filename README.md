@@ -1,3 +1,5 @@
+##### Bio
+
 - 👋 Hi, I’m @vapdev
 - 👀 I’m most interested in python development
 - 🌱 I’m currently learning django and vue.js
@@ -12,7 +14,10 @@ vapdev/vapdev is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-#### Skills
+<a href="https://www.github.com/vapdev" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/vapdev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+##### My stack
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="26" height="26" alt="Python" /></a>
@@ -25,3 +30,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="26" height="26" alt="Flask" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="26" height="26" alt="Django" /></a>
 </p>
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/vapdev"><img src="https://github-readme-stats.vercel.app/api?username=vapdev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="vapdev's GitHub stats" /></a>
