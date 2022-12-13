@@ -30,7 +30,3 @@ src="https://img.shields.io/github/followers/vapdev?logo=github&style=for-the-ba
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="26" height="26" alt="Heroku" /></a>
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="26" height="26" alt="Flask" /></a>
 </p>
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/vapdev"><img src="https://github-readme-stats.vercel.app/api?username=vapdev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="vapdev's GitHub stats" /></a>
