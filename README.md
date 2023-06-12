@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @vapdev
 - 👀 I’m a full stack developer
-- 🌱 I’m currently learning laravel and vue.js
+- 🌱 I work most with laravel and vue.js
 - 💞️ I use this space to publish my personal projects
 - 🧱 Currently developing Twikker, check it out
 - 📫 How to reach me:  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/vitor-augusto-philippsen-bohn-51877b169/">
