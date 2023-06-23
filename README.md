@@ -30,3 +30,11 @@ src="https://img.shields.io/github/followers/vapdev?logo=github&style=for-the-ba
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="26" height="26" alt="Heroku" /></a>
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="26" height="26" alt="Flask" /></a>
 </p>
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vapdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12178506837)
