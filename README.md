@@ -1,7 +1,7 @@
 ##### Bio
 
 - 👋 Hi, I’m @vapdev
-- 👀 I’m a full stack developer
+- 👀 I’m a full stack developer from Brazil 🇧🇷
 - 🌱 I work most with laravel and vue.js
 - 💞️ I use this space to publish my personal projects
 - 🧱 Currently developing Twikker, check it out
